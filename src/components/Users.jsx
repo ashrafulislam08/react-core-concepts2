@@ -39,4 +39,5 @@ export default Users;
  * 1. Declare a state to hold the data
  * 2. useEffect with call back and dependency array
  * 3. use fetch to load data
+ * 4. set loaded data to the state
  */
