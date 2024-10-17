@@ -13,7 +13,6 @@ const Counter = () => {
       setCount(newCount);
     }
   };
-  f;
   return (
     <div
       style={{
